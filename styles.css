@@ -22,7 +22,7 @@ a{
 
 .blurred-wrapper{
     height: 100vh;
-    background: url("wallpaper.jpg") center/cover;
+    background: url("cross3.jpg") center/cover;
     position: relative;
     z-index: 1;
     overflow: hidden;
